@@ -1,1 +1,2 @@
-안녕하세요. 이것은 테스트입니다.
+Hello. This is for test.
+Revision Number 2
